@@ -367,6 +367,8 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 > 1. 不要只做期货；
 > 2. 选择靠谱的不作恶的交易所，比如 [BTCMEX](https://www.btcmex.com/)……
 
+### 6. 入门小尝试参与云挖矿
+小额投入，一百元即可，云挖矿必须选择具有实际矿场，而且长期合规运营的平台，不然又变成一个资金盘而已。
 
 
 -----
@@ -375,7 +377,7 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 
 本书不是技术书籍，它很短，它就是想尽量用最简单的方式给小白讲清楚区块链的 “最少必要知识”。
 
-本书内容保存在 [github](https://github.com/xiaolai/blockchainlittlebook.com) 上，点击右上角那个小猫的图标，就可以转至该项目的仓库。
+本书内容保存在 [github](https://github.com/china-token/btc.gov.date) 上。
 
 本书完全开源，没有任何协议，你可以任意修改，任意发布 —— 只不过，希望你注意以下两点：
 
