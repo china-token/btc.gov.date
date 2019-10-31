@@ -368,8 +368,8 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 > 2. 选择靠谱的不作恶的交易所，比如 [BTCMEX](https://www.btcmex.com/)……
 
 ### 6. 入门小尝试参与云挖矿
-小额投入，一百元即可，云挖矿必须选择具有实际矿场，而且长期合规运营的平台，不然又变成一个资金盘而已。
-
+小额投入云挖矿参与尝试可以更好的入门，但必须选择具有实际矿场，而且长期合规运营的平台，不然又变成一个资金盘而已。
+拥有国内排名前列熊猫矿机的[牛比特平台](https://www.oxbtc.com/account/register?code=OXUH2)可以从一百元投入开始了解怎样挖BTC的，填写邀请码 OXUH2 注册即送云算力获取BTC。
 
 -----
 
